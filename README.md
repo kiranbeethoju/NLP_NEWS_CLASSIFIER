@@ -11,3 +11,9 @@ Complete end-to-end news classifier project for intermediate NLP guys..
 ## Youtube Playlist Link
 > https://www.youtube.com/playlist?list=PL-PQy3USfLwZNhO-97NKlh3AMjT06GNTM
 
+#### Click on below image to play the video
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=DpJ8TRiGf7">
+         <img src="https://i.ytimg.com/vi/Ej_nB55bEis/hqdefault.jpg" style="width:100%;">
+      </a>
+</div>
