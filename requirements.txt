@@ -1,0 +1,8 @@
+gensim
+sklearn
+json
+pandas
+numpy
+db-sqlite3
+pickle
+flask
